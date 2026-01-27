@@ -6,7 +6,7 @@ export const generateWhatsAppLink = (
   pickupDate?: string,
   pickupLocation?: string
 ) => {
-  let message = `नमस्ते महालक्ष्मी Tour and Travels! 🙏\n\n`;
+  let message = `नमस्ते माँलक्ष्मी Tour and Travels! 🙏\n\n`;
   
   if (carName && pricePerKm) {
     message += `मुझे गाड़ी बुक करनी है:\n`;
