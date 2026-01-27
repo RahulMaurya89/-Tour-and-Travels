@@ -88,7 +88,7 @@ export const businessInfo = {
   tagline: "आपकी सफ़र, हमारी ज़िम्मेदारी",
   taglineEnglish: "Your Journey, Our Responsibility",
   ownerName: "चंदन रॉय",
-  ownerNameEnglish: "Rajesh Kumar Sharma",
+  ownerNameEnglish: "Chandan Rai",
   serviceAreas: "Local & Outstation Services",
   serviceAreasHindi: "लोकल और आउटस्टेशन सेवाएं",
   workingHours: "24/7 Available",
