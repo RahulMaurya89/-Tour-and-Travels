@@ -50,8 +50,8 @@ const Home = () => {
 
   const trustBadges = [
     { icon: Clock, label: "24/7 उपलब्ध", sublabel: "Available" },
-    { icon: Shield, label: "सुरक्षित ड्राइवर", sublabel: "Safe Driver" },
-    { icon: IndianRupee, label: "बेहतरीन दाम", sublabel: "Best Rates" },
+    { icon: Shield, label: "प्रमाणित चालक", sublabel: "Experienced Driver" },
+    { icon: IndianRupee, label: "कम कीमत, बेहतर सेवा", sublabel: "Best Rates" },
     { icon: MapPin, label: "लोकल सर्विस", sublabel: "Local Service" },
   ];
 
