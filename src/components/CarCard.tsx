@@ -36,11 +36,6 @@ const CarCard = ({ car, showActions = true }: CarCardProps) => {
             </span>
           )}
         </div>
-
-        {/* Price Badge */}
-        <div className="absolute bottom-3 right-3 bg-primary text-primary-foreground px-4 py-2 rounded-lg font-bold text-lg shadow-lg">
-          
-        </div>
       </div>
 
       <CardContent className="p-4 md:p-6">
