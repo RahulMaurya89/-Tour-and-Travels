@@ -141,7 +141,7 @@ const About = () => {
                 </div>
 
                 <p>
-                  <strong className="text-foreground">महालक्ष्मी Tour and Travels</strong> की
+                  <strong className="text-foreground">माँलक्ष्मी Tour and Travels</strong> की
                   शुरुआत एक छोटे से सपने से हुई थी - लोगों को सुरक्षित और आरामदायक
                   यात्रा का अनुभव देना।
                 </p>
@@ -200,7 +200,7 @@ const About = () => {
               हमारे मूल्य - Our Values
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              These core values guide everything we do at महालक्ष्मी Tour and Travels
+              These core values guide everything we do at माँलक्ष्मी Tour and Travels
             </p>
           </div>
 
