@@ -39,7 +39,7 @@ const Contact = () => {
     e.preventDefault();
     
     const car = cars.find((c) => c.id === formData.car);
-    let whatsappMessage = `नमस्ते महालक्ष्मी Tour and Travels! 🙏\n\n`;
+    let whatsappMessage = `नमस्ते माँलक्ष्मी Tour and Travels! 🙏\n\n`;
     whatsappMessage += `मेरा नाम ${formData.name || "ग्राहक"} है।\n`;
     if (formData.phone) whatsappMessage += `📱 Phone: ${formData.phone}\n`;
     whatsappMessage += `\nमुझे गाड़ी बुक करनी है:\n`;
