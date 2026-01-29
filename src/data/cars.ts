@@ -22,7 +22,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["AC", "Comfort Ride", "Fuel Efficient"],
     featuresHindi: ["एसी", "आरामदायक सफ़र", "किफ़ायती"],
-    image: "/src/assets/44.jpeg",
+    image: desireImg,
     isPopular: true,
   },
 
@@ -34,7 +34,7 @@ export const cars: Car[] =  [
     seats: 7,
     features: ["Family Trip", "Spacious", "AC"],
     featuresHindi: ["परिवार यात्रा", "विशाल", "एसी"],
-    image: "/src/assets/55.jpeg",
+    image: ertigaImg,
     isPopular: true,
   },
 
@@ -46,7 +46,7 @@ export const cars: Car[] =  [
     seats: 7,
     features: ["Reliable", "Comfort", "AC"],
     featuresHindi: ["भरोसेमंद", "आरामदायक", "एसी"],
-    image: "/src/assets/555.jpeg",
+    image: innovaOldImg,
   },
 
   {
@@ -57,7 +57,7 @@ export const cars: Car[] =  [
     seats: 7,
     features: ["Luxury", "Captain Seats", "Premium AC"],
     featuresHindi: ["लक्ज़री", "कैप्टन सीट", "प्रीमियम एसी"],
-    image: "/src/assets/555.jpeg",
+    image: innovaOldImg,
     isPremium: true,
   },
 
@@ -69,7 +69,7 @@ export const cars: Car[] =  [
     seats: 7,
     features: ["Royal Travel", "Powerful", "Premium"],
     featuresHindi: ["शाही सफ़र", "ताक़तवर", "प्रीमियम"],
-    image: "/src/assets/222.jpeg",
+    image: fortunerImg,
     isPremium: true,
   },
 
@@ -81,7 +81,7 @@ export const cars: Car[] =  [
     seats: 7,
     features: ["Strong Build", "Highway King", "AC"],
     featuresHindi: ["मज़बूत", "हाईवे किंग", "एसी"],
-    image: "/src/assets/222.jpeg",
+    image: fortunerImg,
     isPremium: true,
   },
 
@@ -94,7 +94,7 @@ export const cars: Car[] =  [
     seats: 12,
     features: ["Group Travel", "Comfort Seats", "AC"],
     featuresHindi: ["ग्रुप यात्रा", "आरामदायक सीट", "एसी"],
-    image: "/src/assets/111.jpeg",
+    image: traveller12Img,
   },
   {
     id: "traveller-17",
@@ -104,7 +104,7 @@ export const cars: Car[] =  [
     seats: 17,
     features: ["Tour Trips", "Spacious", "AC"],
     featuresHindi: ["टूर यात्रा", "विशाल", "एसी"],
-    image: "/src/assets/66.jpeg",
+    image: traveller17Img,
   },
   {
     id: "traveller-26",
@@ -114,7 +114,7 @@ export const cars: Car[] =  [
     seats: 26,
     features: ["Large Group", "Comfort Ride", "AC"],
     featuresHindi: ["बड़ा ग्रुप", "आरामदायक सफ़र", "एसी"],
-    image: "/src/assets/66.jpeg",
+    image: traveller17Img,
   },
 
   // 🚘 Luxury Cars
@@ -126,7 +126,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["Luxury Ride", "Premium Interior"],
     featuresHindi: ["लक्ज़री सफ़र", "प्रीमियम इंटीरियर"],
-    image: "/src/assets/77.jpeg",
+    image: audiImg,
     isLuxury: true,
   },
   {
@@ -137,7 +137,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["Ultra Luxury", "Elite Travel"],
     featuresHindi: ["अल्ट्रा लक्ज़री", "एलिट सफ़र"],
-    image: "/src/assets/666.jpeg",
+    image: mercedesImg,
     isLuxury: true,
   },
   {
@@ -148,7 +148,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["Sporty", "Premium Comfort"],
     featuresHindi: ["स्पोर्टी", "प्रीमियम आराम"],
-    image: "/src/assets/99.jpeg",
+    image: bmwImg,
     isLuxury: true,
   },
   {
@@ -159,7 +159,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["Royal Feel", "Premium Ride"],
     featuresHindi: ["शाही एहसास", "प्रीमियम सफ़र"],
-    image: "/src/assets/88.jpeg",
+    image: jaguarImg,
     isLuxury: true,
   },
 
@@ -172,7 +172,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["Wedding Special", "Royal Look"],
     featuresHindi: ["शादी स्पेशल", "शाही लुक"],
-    image: "/src/assets/555.jpeg",
+    image: vintageImg,
   },
   {
     id: "bus",
@@ -182,7 +182,7 @@ export const cars: Car[] =  [
     seats: 40,
     features: ["Tours", "School", "Corporate"],
     featuresHindi: ["टूर", "स्कूल", "कॉर्पोरेट"],
-    image: "/src/assets/bus.jpeg",
+    image: busImg,
   },
 ];
 
