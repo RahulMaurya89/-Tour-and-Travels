@@ -22,7 +22,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["AC", "Comfort Ride", "Fuel Efficient"],
     featuresHindi: ["एसी", "आरामदायक सफ़र", "किफ़ायती"],
-    image: "src/assets/44.jpg",
+    image: "src/assets/44.jpeg",
     isPopular: true,
   },
 
