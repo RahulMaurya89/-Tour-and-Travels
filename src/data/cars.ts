@@ -34,7 +34,7 @@ export const cars: Car[] =  [
     seats: 7,
     features: ["Family Trip", "Spacious", "AC"],
     featuresHindi: ["परिवार यात्रा", "विशाल", "एसी"],
-    image: "src/assets/ertiga.jpeg",
+    image: "https://www.autovista.in/assets/img/new_cars_colour_variants/next-gen-ertiga-colour-pearl-arctic-white.png",
     isPopular: true,
   },
 
@@ -46,7 +46,7 @@ export const cars: Car[] =  [
     seats: 7,
     features: ["Reliable", "Comfort", "AC"],
     featuresHindi: ["भरोसेमंद", "आरामदायक", "एसी"],
-    image: "src/assets/innova-crysta.jpeg",
+    image: "https://imgd.aeplcdn.com/1280x720/cw/cars/discontinued/toyota/innova-2005-2009.jpg?q=80",
   },
 
   {
@@ -57,7 +57,7 @@ export const cars: Car[] =  [
     seats: 7,
     features: ["Luxury", "Captain Seats", "Premium AC"],
     featuresHindi: ["लक्ज़री", "कैप्टन सीट", "प्रीमियम एसी"],
-    image: "src/assets/innova-crysta.jpeg",
+    image: "https://cdn.cars24.com/prod/new-car-cms/Toyota/Innova-Crysta/2024/10/21/1c263075-79d8-41f7-9120-fdcdc48bd4f2-Innova-Crysta.png",
     isPremium: true,
   },
 
@@ -69,7 +69,7 @@ export const cars: Car[] =  [
     seats: 7,
     features: ["Royal Travel", "Powerful", "Premium"],
     featuresHindi: ["शाही सफ़र", "ताक़तवर", "प्रीमियम"],
-    image: "src/assets/scorpio.jpeg",
+    image: "https://img-ik.cars.co.za/news-site-za/images/2023/03/PC3A9737.jpg",
     isPremium: true,
   },
 
@@ -81,7 +81,7 @@ export const cars: Car[] =  [
     seats: 7,
     features: ["Strong Build", "Highway King", "AC"],
     featuresHindi: ["मज़बूत", "हाईवे किंग", "एसी"],
-    image: "src/assets/scorpio.jpeg",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/Scorpio/3605/1626963191439/front-left-side-47.jpg?tr=w-880,h-495",
     isPremium: true,
   },
 
@@ -94,7 +94,7 @@ export const cars: Car[] =  [
     seats: 12,
     features: ["Group Travel", "Comfort Seats", "AC"],
     featuresHindi: ["ग्रुप यात्रा", "आरामदायक सीट", "एसी"],
-    image: "src/assets/traveller-12.jpeg",
+    image: "https://tse1.mm.bing.net/th/id/OIP.OLpkukaLCSTby5hXzqx2wgHaFS?pid=Api&P=0&h=180",
   },
   {
     id: "traveller-17",
@@ -104,7 +104,7 @@ export const cars: Car[] =  [
     seats: 17,
     features: ["Tour Trips", "Spacious", "AC"],
     featuresHindi: ["टूर यात्रा", "विशाल", "एसी"],
-    image: "src/assets/traveller-12.jpeg",
+    image: "https://tse4.mm.bing.net/th/id/OIP.hM_UTvADCyqXDrMRT1u1iAHaE8?pid=Api&P=0&h=180",
   },
   {
     id: "traveller-26",
@@ -114,7 +114,7 @@ export const cars: Car[] =  [
     seats: 26,
     features: ["Large Group", "Comfort Ride", "AC"],
     featuresHindi: ["बड़ा ग्रुप", "आरामदायक सफ़र", "एसी"],
-    image: "src/assets/traveller-12.jpeg",
+    image: "https://ymimg1.b8cdn.com/uploads/car_model/8118/pictures/7823820/2022_Force_Traveller_Exterior_03.jpg",
   },
 
   // 🚘 Luxury Cars
@@ -126,7 +126,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["Luxury Ride", "Premium Interior"],
     featuresHindi: ["लक्ज़री सफ़र", "प्रीमियम इंटीरियर"],
-    image: "src/assets/audi.jpeg",
+    image: "https://tse4.mm.bing.net/th/id/OIP.K5JcBfQZew1p3jQXpvN2jQHaEK?pid=Api&P=0&h=180",
     isLuxury: true,
   },
   {
@@ -137,7 +137,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["Ultra Luxury", "Elite Travel"],
     featuresHindi: ["अल्ट्रा लक्ज़री", "एलिट सफ़र"],
-    image: "src/assets/mercedes.jpeg",
+    image: "https://tse4.mm.bing.net/th/id/OIP.vVD8AJ4rjDsNmu2UZ3iu1gHaFl?pid=Api&P=0&h=180",
     isLuxury: true,
   },
   {
@@ -148,7 +148,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["Sporty", "Premium Comfort"],
     featuresHindi: ["स्पोर्टी", "प्रीमियम आराम"],
-    image: "src/assets/bmw.jpeg",
+    image: "https://tse3.mm.bing.net/th/id/OIP.EAJ-u-rERY12JAVD77SICwHaEK?pid=Api&P=0&h=180",
     isLuxury: true,
   },
   {
@@ -159,7 +159,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["Royal Feel", "Premium Ride"],
     featuresHindi: ["शाही एहसास", "प्रीमियम सफ़र"],
-    image: "src/assets/jaguar.jpeg",
+    image: "https://tse3.mm.bing.net/th/id/OIP.m7N2u_AV35ifQeOhxijX2wHaEE?pid=Api&P=0&h=180",
     isLuxury: true,
   },
 
@@ -172,7 +172,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["Wedding Special", "Royal Look"],
     featuresHindi: ["शादी स्पेशल", "शाही लुक"],
-    image: "src/assets/vintage.jpeg",
+    image: "https://tse1.mm.bing.net/th/id/OIP.SmXBcpE4MqAespkdwVBi2gHaFj?pid=Api&P=0&h=180",
   },
   {
     id: "bus",
@@ -182,7 +182,7 @@ export const cars: Car[] =  [
     seats: 40,
     features: ["Tours", "School", "Corporate"],
     featuresHindi: ["टूर", "स्कूल", "कॉर्पोरेट"],
-    image: "src/assets/bus.jpg",
+    image: "https://static.vecteezy.com/system/resources/previews/025/276/021/original/white-tour-bus-png.png",
   },
 ];
 
