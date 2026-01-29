@@ -22,7 +22,7 @@ export const cars: Car[] =  [
     seats: 4,
     features: ["AC", "Comfort Ride", "Fuel Efficient"],
     featuresHindi: ["एसी", "आरामदायक सफ़र", "किफ़ायती"],
-    image: "src/assets/desire.jpeg",
+    image: "https://www.autovista.in/assets/img/new_cars_colour_variants/new-dzire-colour-pearl-arctic-white.jpg",
     isPopular: true,
   },
 
