@@ -8,7 +8,7 @@ import { Button } from "@/components/ui/button";
 import { MessageCircle, Phone, Car, CheckCircle } from "lucide-react";
 import desireImg from "@/assets/44.jpeg";
 import ertigaImg from "@/assets/55.jpeg";
-import innovaOldImg from "@/assets/555.jpeg";
+import innovaOldImg from "@/assets/444.jpeg";
 import fortunerImg from "@/assets/222.jpeg";
 import traveller12Img from "@/assets/111.jpeg";
 import traveller17Img from "@/assets/66.jpeg";
@@ -17,6 +17,7 @@ import mercedesImg from "@/assets/666.jpeg";
 import bmwImg from "@/assets/99.jpeg";
 import jaguarImg from "@/assets/88.jpeg";
 import busImg from "@/assets/bus.jpeg";
+import vintageImg from "@/assets/555.jpeg";
 
 const CarRates = () => {
   return (
